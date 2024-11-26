@@ -1,2 +1,3 @@
-2024/11/19-14:34:19.848 629c Creating DB C:/Repositories/Fryslan/Fryslan-Mira/Fryslan/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/11/19-14:34:19.864 629c Reusing MANIFEST C:/Repositories/Fryslan/Fryslan-Mira/Fryslan/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/11/26-12:51:55.694 a304 Reusing MANIFEST C:/Repositories/Fryslan/Fryslan-Mira/Fryslan/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/11/26-12:51:55.696 a304 Recovering log #3
+2024/11/26-12:51:55.697 a304 Reusing old log C:/Repositories/Fryslan/Fryslan-Mira/Fryslan/Saved/webcache_4430\Local Storage\leveldb/000003.log 
